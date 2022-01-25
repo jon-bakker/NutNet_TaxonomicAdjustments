@@ -1,7 +1,7 @@
 # NutNet_TaxonomicAdjustments
 Taxonomic adjustments for NutNet compositional data to ensure consistent naming over time.  Note that this script does **not** consider taxonomic consistency among sites.
 
-Taxonomic adjustments have been considered for all sites with at least 4 years of data.  In the current data release, this is **74 sites**.
+Taxonomic adjustments have been considered for all sites with at least 4 years of data.  In the current data release, this is **73 sites**.
 
 Taxonomic adjustments can be necessary for many reasons, including:
 - Taxonomic imprecision. Examples:
