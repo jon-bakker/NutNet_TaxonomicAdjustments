@@ -1,6 +1,8 @@
 # NutNet_TaxonomicAdjustments
 Taxonomic adjustments for NutNet compositional data to ensure consistent naming over time.  Note that this script does **not** consider taxonomic consistency among sites.
 
+Taxonomic adjustments have been considered for all sites with at least 4 years of data.  In the current data release, this is **74 sites**.
+
 Taxonomic adjustments can be necessary for many reasons, including:
 - Taxonomic imprecision. Examples:
   -  Taxa that are distinguished in some years but lumped as a single genus in other years
@@ -12,7 +14,7 @@ Adjustments were identified by comparing species lists over time, both for a sit
 
 The CSV file contains a table of all recommended changes along with other notes about composition on a site-by-site basis.  For a given site, the recommended change is to replace names in the 'Taxon' field with those in the 'NewTaxon' field.  Reasons for these changes are (sometimes) provided in the 'Notes' field.  The 'Omit' field is a flag that can be used to exclude a particular adjustment.  Sites that do not have any adjustments are also identified in the 'Notes' field and excluded from adjustments. 
 
-The CSV file is specific to a data release and needs to be updated each time a new file of cover data is released.  The current file is for the **May 6, 2021** release.
+The CSV file is specific to a data release and needs to be updated each time a new file of cover data is released.  The release date is indicated at the end of the file name (YYMMDD).  For example, the file ending 211018 is for the current file released on **October 18, 2021**.
 
 The script workflow is as follows:
 - Drop non-vascular plants (mosses, lichens, fungi).
