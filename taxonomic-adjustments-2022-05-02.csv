@@ -257,7 +257,7 @@ kiny.au,UNKNOWN GRASS,RYTIDOSPERMA SP.,,assign to dominant taxon in Family,,No,Y
 koffler.ca,UNKNOWN ASTERACEAE ,SOLIDAGO ALTISSIMA,,assign to dominant taxon of Family,,No,Yes
 koffler.ca,CAREX SP.,CAREX PLANTAGINEA,,Inconsistent identification across years,,No,Yes
 koffler.ca,UNKNOWN CYPERACEAE SP.,CAREX PLANTAGINEA,,Inconsistent identification across years,,No,Yes
-koffler.ca,UNKNOWN ROSACEAE,PRUNUS SP.,,assign to dominant taxon of Family,,No,Yes
+koffler.ca,UNKNOWN ROSACEAE ,PRUNUS SP.,,assign to dominant taxon of Family,,No,Yes
 koffler.ca,GALIUM SP. (koffler.ca),GALIUM SP.,,global taxon name,,No,Yes
 konz.us,EUPHORBIA SERPENS,EUPHORBIA NUTANS,,,,No,Yes
 konz.us,MUHLENBERGIA CUSPIDATA,MUHLENBERGIA RACEMOSA,,,,No,Yes
@@ -297,7 +297,7 @@ msla.us,ANTENNARIA SP.,ANTENNARIA MICROPHYLLA,plot 4,Inconsistent identification
 msla.us,ANTENNARIA ROSEA,ANTENNARIA MICROPHYLLA,plot 26,Inconsistent identification across years,,No,Yes
 msla_2.us,ANTENNARIA SP.,ANTENNARIA PARVIFOLIA,plot 11; Antennaria dimorpha also present,,,No,Yes
 msla_2.us,ERIGERON SP. (msla.us),ERIGERON DIVERGENS,plot 21,No congeners recorded,,No,Yes
-msla-3.us,ANTENNARIA SP.,ANTENNARIA MICROPHYLLA,plot 13,Inconsistent identification across years,,No,Yes
+msla_3.us,ANTENNARIA SP.,ANTENNARIA MICROPHYLLA,plot 13,Inconsistent identification across years,,No,Yes
 mtca.au,PETRORHAGIA SP. (mtca.au),PETRORHAGIA DUBIA,,Inconsistent identification across years,,No,Yes
 mtca.au,URSINIA SP. (mtca.au),URSINIA ANTHEMOIDES,,Inconsistent identification across years,,No,Yes
 mtca.au,HORDEUM MURINUM SSP. LEPORINUM,HORDEUM MURINUM,,Aggregate at species level,,No,Yes
