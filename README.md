@@ -28,7 +28,7 @@ Note: in previous versions of this script, unknown codes that were not clearly s
 The script (Data.Import.Taxonomic.Adjustments.script.220502.R) loads the data (not included here; available to authorized users through the NutNet dropbox folder), creates a species list for each site based on the raw cover data, applies the taxonomic adjustments function, and creates a species list based on the adjusted cover data for each site with at least 4 years of data.  The species lists can be easily ignored if desired.  If run, they require two destination folders, 'output/raw' and 'output/adjusted', within your working directory.  The 'output/raw' folder will receive a summary of the raw data for each site (n = 143). The 'output/adjusted' folder will receive a summary of the data after taxonomic adjustments for each site with at least 4 years of data (n = 78).
 
 The workflow of the taxonomic adjustments function (Taxonomic.Adjustments.function.220502.R) is as follows:
-- Drop non-vascular plants (mosses, lichens, fungi).
+- Drop non-vascular plants (mosses, lichens, fungi). Updated to retain Selaginella and lycopods as vascular plants.
 - Merge original data file with set of adjustments.
 - If a given taxon at a given site has a recommended adjustment replace the name in the 'Taxon' field with that in the 'NewTaxon' field.  In a few cases the recommended 'NewTaxon' is from a different plant family (or one was not provided originally); in this case, the entry in the 'Family' field is also replaced with that in the 'NewFamily' field.  Taxa without recommended adjustments are unchanged.
 - Drop records in which the Taxon has not been assigned to a plant family.  This includes all substrates (non-living).
