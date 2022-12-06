@@ -1,0 +1,481 @@
+site_code,Taxon,NewTaxon,Notes,Reason,NewFamily,Omit,Apply
+ahth.is,FESTUCA RICHARDSONII,FESTUCA SP.,,,,No,Yes
+ahth.is,FESTUCA VIVIPARA,FESTUCA SP.,,,,No,Yes
+amlr.is,AGROSTIS CAPILLARIS,AGROSTIS SP.,,,,No,Yes
+amlr.is,AGROSTIS VINEALIS,AGROSTIS SP.,,,,No,Yes
+amlr.is,FESTUCA RICHARDSONII,FESTUCA SP.,,,,No,Yes
+amlr.is,FESTUCA VIVIPARA,FESTUCA SP.,,,,No,Yes
+amlr.is,FESTUCA RUBRA,FESTUCA SP.,,,,No,Yes
+amlr.is,RUMEX ACETOSA,RUMEX SP.,,,,No,Yes
+amlr.is,RUMEX ACETOSELLA,RUMEX SP.,,,,No,Yes
+arch.us,COMMELINA SP.,COMMELINA ERECTA,,,,No,Yes
+arch.us,CARPHEPHORUS CARPHEPHORUS,CARPHEPHORUS SP.,,,,No,Yes
+arch.us,SOLIDAGO SP.,SOLIDAGO FISTULOSA,,,,No,Yes
+arch.us,CYPERUS SP.,CYPERUS RETRORSUS,,,,No,Yes
+arch.us,RHYNCHOSPORA FASCICULARIS,RHYNCHOSPORA SP.,,,,No,Yes
+arch.us,RHYNCHOSPORA FILIFOLIA,RHYNCHOSPORA SP.,,,,No,Yes
+arch.us,SCLERIA CILIATA,SCLERIA SP.,,,,No,Yes
+arch.us,SCLERIA PAUCIFLORA,SCLERIA SP.,,,,No,Yes
+arch.us,SCLERIA RETICULARIS,SCLERIA SP.,,,,No,Yes
+arch.us,LUDWIGIA ALATA,LUDWIGIA SP.,,,,No,Yes
+arch.us,LUDWIGIA CURTISSII,LUDWIGIA SP.,,,,No,Yes
+arch.us,LUDWIGIA MARITIMA,LUDWIGIA SP.,,,,No,Yes
+arch.us,LUDWIGIA PILOSA,LUDWIGIA SP.,,,,No,Yes
+arch.us,UNKNOWN CYPERACEAE SP.,ELEOCHARIS BALDWINII,,assign to dominant taxon in Family,,No,Yes
+arch.us,ANDROPOGON SP.,ANDROPOGON VIRGINICUS,,,,No,Yes
+arch.us,ANDROPOGON VIRGINICUS var. GLAUCUS,ANDROPOGON VIRGINICUS,,,,No,Yes
+arch.us,ANDROPOGON VIRGINICUS var. VIRGINICUS,ANDROPOGON VIRGINICUS,,,,No,Yes
+arch.us,PANICUM AGROSTOIDES,PANICUM SP.,,,,No,Yes
+arch.us,PANICUM HEMITOMON,PANICUM SP.,,,,No,Yes
+arch.us,UNKNOWN GRASS SP.,SCHIZACHYRIUM RHIZOMATUM,,assign to dominant taxon in Family,,No,Yes
+azi.cn,TIBETIA,GUELDENSTAEDTIA VERNA,are these the same?,,,Yes,No
+azi.cn,ARTEMISIA MONGOLICA,ARTEMISIA SIEVERSIANA,,Inconsistent identification across years,,No,Yes
+azi.cn,SAUSSUREA NEOFRANCHETII,SAUSSUREA SP.,,,,No,Yes
+azi.cn,SAUSSUREA NIGRESCENS,SAUSSUREA SP.,,,,No,Yes
+azi.cn,SAUSSUREA PACHYNEURA,SAUSSUREA SP.,,,,No,Yes
+azi.cn,SAUSSUREA STELLA,SAUSSUREA SP.,,,,No,Yes
+azi.cn,POA ATTENUATA var. KENG,POA ATTENUATA,,Aggregate at species level,,No,Yes
+azi.cn,VIOLA STRIATELLA,VIOLA SP.,,Inconsistent identification across years,,No,Yes
+badlau.de,VICIA SATIVA SSP. NIGRA,VICIA SATIVA,,Aggregate at species level,,No,Yes
+barta.us,,,no changes,,,Yes,No
+bayr.de,,,"Luzula campestris = 235% (plot 7, 2019)?",,,Yes,No
+bayr.de,QUERCUS ROBUR,QUERCUS SP.,,,,No,Yes
+bayr.de,CRATAEGUS MONOGYNA,CRATAEGUS SP.,,,,No,Yes
+bayr.de,PRUNUS SPINOSA,PRUNUS SP.,,,,No,Yes
+bldr.us,PODOSPERMUM LACINIATUM,SCORZONERA LACINIATA,,,,No,Yes
+bldr.us,PODOSPERMUM SCORZONEROIDES,SCORZONERA LACINIATA,,,,No,Yes
+bldr.us,PODOSPERMUM SP.,SCORZONERA LACINIATA,,,,No,Yes
+bldr.us,MEDICAGO SP.,MEDICAGO LUPULINA,,,,No,Yes
+bldr.us,UNKNOWN GRASS,VULPIA BROMOIDES,,,,No,Yes
+bnbt.us,CORNUS SP. (bnbt.us),CORNUS SP.,,global taxon name,,No,Yes
+bnbt.us,CAREX SP. (bnbt.us),CAREX SP.,,global taxon name,,No,Yes
+bnbt.us,ACALYPHA SP. (bnbt.us),ACALYPHA SP.,,global taxon name,,No,Yes
+bnbt.us,TYPHA ANGUSTIFOLIA,TYPHA GLAUCA,one taxon present per year; confirmed with Brent Mortensen,Inconsistent identification across years,,No,Yes
+bnbt.us,ULMUS PUMILA,ULMUS SP.,one taxon present per year; confirmed with Brent Mortensen,No congeners recorded,,No,Yes
+bnbt.us,URTICA DIOECIA,URTICA DIOICA,confirmed with Brent Mortensen,Spelling,,No,Yes
+bnbt.us,SYMPHYOTRICHUM PILOSUM,SYMPHYOTRICHUM ERICOIDES,confirmed with Brent Mortensen,Inconsistent identification across years,,No,Yes
+bnbt.us,PERSICARIA MACULOSA,PERSICARIA LAPATHIFOLIA,confirmed with Brent Mortensen,Inconsistent identification across years,,No,Yes
+bnch.us,,,No Agrostis in year_trt == 3?,,,Yes,No
+bnch.us,,,No Danthonia in year_trt == 3?,,,Yes,No
+bnch.us,UNKNOWN CARYOPHYLLACEAE SP.,MOEHRINGIA LATERIFLORA,,,,No,Yes
+bnch.us,ASTER SP.,SYMPHYOTRICHUM SPATHULATUM,,,,No,Yes
+bnch.us,CAREX HOODII,CAREX PENSYLVANICA,,,,No,Yes
+bnch.us,ELYMUS GLAUCUS,ELYMUS REPENS,,,,No,Yes
+bnch.us,UNKNOWN POLEMONIACEAE SP.,MICROSTERIS GRACILIS,,,,No,Yes
+bnch.us,UNKNOWN GRASS,FESTUCA IDAHOENSIS,,assign to dominant taxon in Family,,No,Yes
+bogong.au,ERIGERON BELLIDIOIDES,ERIGERON SP.,,,,No,Yes
+bogong.au,ERIGERON NITIDUS,ERIGERON SP.,,,,No,Yes
+bogong.au,MICROSERIS SP.,MICROSERIS LANCEOLATA,,,,No,Yes
+burrawan.au,,,no changes,,,Yes,No
+burren.ie,DACTYLORHIZA FUCHSII,DACTYLORHIZA SP.,,,,No,Yes
+burren.ie,DACTYLORHIZA MACULATA,DACTYLORHIZA SP.,,,,No,Yes
+burren.ie,UNKNOWN ORCHIDACEAE SP.,DACTYLORHIZA SP.,,assign to dominant taxon in Family,,No,Yes
+burren.ie,ROSA XANTHINA,ROSA SPINOSISSIMA,,,,No,Yes
+burren.ie,PEDICULARIS PALUSTRIS,PEDICULARIS SYLVATICA,,Inconsistent identification across years,,No,Yes
+cbgb.us,CIRSIUM ARVENSE,CIRSIUM SP.,not distinguished in yrs 0-3,Inconsistent identification across years,,No,Yes
+cbgb.us,CIRSIUM VULGARE,CIRSIUM SP.,not distinguished in yrs 0-3,Inconsistent identification across years,,No,Yes
+cbgb.us,HELIANTHUS SP.,HELIANTHUS GROSSESERRATUS,plot 52; H. grosseserratus in plot in other years,Inconsistent identification across years,,No,Yes
+cbgb.us,SOLIDAGO SP.,SOLIDAGO CANADENSIS,plot 4; S. canadensis in plot in other years,Inconsistent identification across years,,No,Yes
+cbgb.us,SYMPHYOTRICHUM SP.,SYMPHYOTRICHUM PILOSUM,"plots 13, 20",No congeners recorded,,No,Yes
+cbgb.us,MELILOTUS OFFICINALIS,MELILOTUS SP.,,No congeners recorded,,No,Yes
+cbgb.us,GALIUM SP.,GALIUM CONCINNUM,,No congeners recorded,,No,Yes
+cbgb.us,SOLANUM SP.,SOLANUM CAROLINENSE,,No congeners recorded,,No,Yes
+cbgb.us,UNKNOWN GRASS,SCHIZACHYRIUM SCOPARIUM,,assign to dominant taxon in Family,,No,Yes
+cbgb.us,UNKNOWN POACEAE SP. (cbgb.us),SCHIZACHYRIUM SCOPARIUM,,assign to dominant taxon in Family,,No,Yes
+cdcr.us,,,no Elymus repens in 2009?,,,Yes,No
+cdcr.us,CHENOPODIUM SP.,CHENOPODIUM ALBUM,,No congeners recorded,,No,Yes
+cdcr.us,ASCLEPIAS SP.,ASCLEPIAS SYRIACA,A. syriaca present before and after,Inconsistent identification across years,,No,Yes
+cdcr.us,SILENE LATIFOLIA,LYCHNIS LATIFOLIA SSP. ALBA,,Synonyms,,No,Yes
+cdcr.us,ASTER SP.,SYMPHYOTRICHUM BOREALE,,Synonyms,,No,Yes
+cdcr.us,ERIGERON CANADENSIS,CONYZA CANADENSIS,,Synonyms,,No,Yes
+cdcr.us,ERIGERON SP.,ERIGERON STRIGOSUS,,No congeners recorded,,No,Yes
+cdcr.us,RUDBECKIA SP.,RUDBECKIA HIRTA,,No congeners recorded,,No,Yes
+cdcr.us,RUDBECKIA HIRTA var. PULCHERRIMA,RUDBECKIA HIRTA,,Aggregate at species level,,No,Yes
+cdcr.us,ECHINACEA SEROTINA,RUDBECKIA HIRTA,Adam Clark: not present in 30 years of 2000 plots in old field,Common misidentification,,No,Yes
+cdcr.us,SOLIDAGO SP.,SOLIDAGO MISSOURIENSIS,S. missouriensis common but never co-listed,Common misidentification,,No,Yes
+cdcr.us,CAREX SCOPARIA,CAREX SP.,usually characterized as genus,No congeners recorded,,No,Yes
+cdcr.us,CYPERUS FILICULMIS,CYPERUS SP.,generally one species present per year; usually characterized as genus,Common misidentification,,No,Yes
+cdcr.us,CYPERUS GRAYI,CYPERUS SP.,generally one species present per year; usually characterized as genus,Common misidentification,,No,Yes
+cdcr.us,CYPERUS LUPULINUS,CYPERUS SP.,generally one species present per year; usually characterized as genus,Common misidentification,,No,Yes
+cdcr.us,CYPERUS SCHWEINITZII,CYPERUS SP.,generally one species present per year; usually characterized as genus,Common misidentification,,No,Yes
+cdcr.us,UNKNOWN FABACEAE,TRIFOLIUM REPENS,single record in 2014; co-occurs with Lespedeza capitata; T. repens not recorded in that year,Common misidentification,,No,Yes
+cdcr.us,UNKNOWN LAMIACEAE ,HEDEOMA HISPIDA,2 records in 2013; no other genera from family recorded,No congeners recorded,,No,Yes
+cdcr.us,PANICUM SP.,PANICUM ACUMINATUM,1 record in 2013; P. acuminatum most common congener that it doesn't co-occur with,Common misidentification,,No,Yes
+cdcr.us,UNKNOWN GRASS SP.,SETARIA SP.,Adam Clark: most likely Setaria or Digitaria,Common misidentification,,No,Yes
+cdcr.us,POPULUS DELTOIDES,POPULUS TREMULOIDES,,Common misidentification,,No,Yes
+cdpt.us,,,no changes,,,Yes,No
+cedr.us,CAREX SP. (cedr.us),CAREX SCOPARIA,,Inconsistent identification across years,,No,Yes
+cedr.us,CYPERUS SP. (cedr.us),CYPERUS FILICULMIS,"same plot, different years",Inconsistent identification across years,,No,Yes
+cedr.us,VICIA SP. (cedr.us),VICIA SP.,same plot as Vicia villosa so assumed different taxon,global taxon name,,No,Yes
+cedr.us,PRUNUS SP. (cedr.us),PRUNUS SP.,,global taxon name,,No,Yes
+cedr.us,VITIS SP. (cedr.us),VITIS SP.,,global taxon name,,No,Yes
+cereep.fr,,,why so much Hypochaeris in year 0?,,,Yes,No
+cereep.fr,,,why minimum value of 2.5 in year 0?,,,Yes,No
+cereep.fr,,,why no data for plot 30 in most years?,,,Yes,No
+cereep.fr,MYOSOTIS SP.,MYOSOTIS RAMOSISSIMA,plot 24; M. ramosissima in other yrs,Inconsistent identification across years,,No,Yes
+cereep.fr,SILENE LATIFOLIA,SILENE LATIFOLIA SSP. ALBA,,Aggregate at species level,,No,Yes
+cereep.fr,UNKNOWN CARYOPHYLLACEAE SP.,SILENE VULGARIS,plot 22,,,No,Yes
+cereep.fr,CREPIS SETOSA,CREPIS SP.,,,,No,Yes
+cereep.fr,JACOBAEA VULGARIS,SENECIO JACOBAEA,,Synonyms,,No,Yes
+cereep.fr,SENECIO SP.,SENECIO JACOBAEA,,No congeners recorded,,No,Yes
+cereep.fr,PICRIS SP.,PICRIS HIERACIOIDES,,No congeners recorded,,No,Yes
+cereep.fr,TARAXACUM SP.,TARAXACUM CAMPYLODES,,No congeners recorded,,No,Yes
+cereep.fr,UNKNOWN ASTERACEAE SP.,HIERACIUM UMBELLATUM,,assign to dominant taxon in Family,,No,Yes
+cereep.fr,TRIFOLIUM SP.,TRIFOLIUM CAMPESTRE,usually T. campestre recorded in other yrs but not at same time as T. sp,Inconsistent identification across years,,No,Yes
+cereep.fr,VICIA sativa SSP. nigra,VICIA SATIVA,,Aggregate at species level,,No,Yes
+cereep.fr,VICIA CRACCA,VICIA SP.,not V. hirsuta or V. sativa,Inconsistent identification across years,,No,Yes
+cereep.fr,VICIA LATHYROIDES,VICIA SP.,not V. hirsuta or V. sativa,Inconsistent identification across years,,No,Yes
+cereep.fr,VICIA SEPIUM,VICIA SP.,not V. hirsuta or V. sativa,Inconsistent identification across years,,No,Yes
+cereep.fr,VICIA TETRASPERMA,VICIA SP.,not V. hirsuta or V. sativa,Inconsistent identification across years,,No,Yes
+cereep.fr,ERODIUM SP.,ERODIUM CICUTARIUM,,No congeners recorded,,No,Yes
+cereep.fr,GERANIUM SP.,GERANIUM DISSECTUM,,assign to dominant taxon in Family,,No,Yes
+cereep.fr,HYPERICUM MACULATUM SSP. OBTUSIUSCULUM,HYPERICUM SP.,,Inconsistent identification across years,,No,Yes
+cereep.fr,HYPERICUM PERFORATUM,HYPERICUM SP.,,Inconsistent identification across years,,No,Yes
+cereep.fr,AGROSTIS SP.,AGROSTIS CAPILLARIS,,assign to dominant taxon in genus,,No,Yes
+cereep.fr,ARRHENATHERUM elatius SSP. bulbosum,ARRHENATHERUM ELATIUS,,Aggregate at species level,,No,Yes
+cereep.fr,BROMUS SP.,BROMUS HORDEACEUS,,assign to dominant taxon in genus,,No,Yes
+cereep.fr,FESTUCA SP.,FESTUCA RUBRA,,assign to dominant taxon in genus,,No,Yes
+cereep.fr,POA pratensis SSP. latifolia,POA PRATENSIS,,Aggregate at species level,,No,Yes
+cereep.fr,POA SP.,POA PRATENSIS,,assign to dominant taxon in genus,,No,Yes
+cereep.fr,VULPIA SP.,VULPIA MYUROS,,assign to dominant taxon in genus,,No,Yes
+cereep.fr,UNKNOWN GRASS SP.,ARRHENATHERUM ELATIUS,,assign to dominant taxon in Family,,No,Yes
+cereep.fr,RUMEX SP.,RUMEX ACETOSELLA,plot 6; R. acetosa also present,Inconsistent identification across years,,No,Yes
+cereep.fr,RANUNCULUS SP.,RANUNCULUS REPENS,plot 15,Inconsistent identification across years,,No,Yes
+cereep.fr,POTENTILLA SP.,POTENTILLA ARGENTEA,plot 17,Inconsistent identification across years,,No,Yes
+cereep.fr,VERONICA SP.,VERONICA ARVENSIS,plot 14,Inconsistent identification across years,,No,Yes
+cereep.fr,VALERIANELLA SP.,VALERIANELLA LOCUSTA,plot 20,No congeners recorded,,No,Yes
+chilcas.ar,CAREX SP.,CAREX PHALAROIDES,,,,No,Yes
+chilcas.ar,CYPERUS SP.,CYPERUS ERAGROSTIS,,,,No,Yes
+chilcas.ar,BROMUS AULETICUS,BROMUS BRACHYANTHERUS,,,,No,Yes
+comp.pt,,,plot 14 only monitored in 2012?,,,Yes,No
+comp.pt,CREPIS CAPILLARIS,CREPIS SP.,,,,No,Yes
+comp.pt,CREPIS VESICARIA,CREPIS SP.,,,,No,Yes
+comp.pt,HYPOCHAERIS,HYPOCHAERIS GLABRA,,,,No,Yes
+comp.pt,LEONTODON TARAXACOIDES,HYPOCHAERIS GLABRA,,,,No,Yes
+comp.pt,TRIFOLIUM GEMELLUM,TRIFOLIUM GLOMERATUM,,Inconsistent identification across years,,No,Yes
+comp.pt,TRIFOLIUM SP.,TRIFOLIUM GLOMERATUM,,Inconsistent identification across years,,No,Yes
+comp.pt,ERODIUM AETHIOPICUM,ERODIUM SP.,,,,No,Yes
+comp.pt,ERODIUM BOTRYS,ERODIUM SP.,,,,No,Yes
+comp.pt,ERODIUM CICUTARIUM,ERODIUM SP.,,,,No,Yes
+comp.pt,ERODIUM MALACOIDES,ERODIUM SP.,,,,No,Yes
+comp.pt,ERODIUM MOSCHATUM,ERODIUM SP.,,,,No,Yes
+comp.pt,OROBANCHE SP.,OROBANCHE MINOR,,,,No,Yes
+comp.pt,PLANTAGO BELLARDI,PLANTAGO BELLARDII,,Spelling,,No,Yes
+comp.pt,UNKNOWN GRASS,AGROSTIS POURRETII,,Inconsistent identification across years,,No,Yes
+comp.pt,VULPIA,VULPIA BROMOIDES,,,,No,Yes
+comp.pt,UNKNOWN ASTERACEAE SP.,TOLPIS BARBATA,,assign to dominant taxon in Family,,No,Yes
+comp.pt,UNKNOWN ASTERACEAE,TOLPIS BARBATA,,assign to dominant taxon in Family,,No,Yes
+cowi.ca,,,no changes,,,Yes,No
+cowi.ca,,,Bellis perennis == Leucanthemum vulgare?,,,Yes,No
+doane.us,SOLIDAGO SP.,SOLIDAGO CANADENSIS,,,,No,Yes
+doane.us,PHYSALIS VIRGINIANA,PHYSALIS LONGIFOLIA,,,,No,Yes
+doane.us,UNKNOWN GRASS,ANDROPOGON GERARDII,,assign to dominant taxon in Family,,No,Yes
+elliot.us,CROTON SETIGER,CROTON SETIGERUS,,Spelling,,No,Yes
+elliot.us,JUNCUS SP.,JUNCUS DUBIUS,,,,No,Yes
+ethamc.au,,,no changes,,,Yes,No
+ethass.au,,,no changes,,,Yes,No
+frue.ch,,,no changes,,,Yes,No
+gilb.za,UNKNOWN CYPERACEAE,CYPERUS SP.,,assign to dominant taxon of Family,,No,Yes
+hall.us,RUBUS SP.,RUBUS ALLEGHENIENSIS,,,,No,Yes
+hart.us,ALLIUM SP.,ALLIUM ACUMINATUM,,,,No,Yes
+hart.us,AGOSERIS SP.,AGOSERIS GLAUCA,,,,No,Yes
+hart.us,CREPIS OCCIDENTALIS,CREPIS SP.,,,,No,Yes
+hart.us,ASTRAGALUS SP.,ASTRAGALUS FILIPES,,Inconsistent identification across years,,No,Yes
+hart.us,LUPINUS SP.,LUPINUS UNCIALIS,,,,No,Yes
+hero.uk,,,no changes,,,Yes,No
+hnvr.us,IPOMOEA SP.,CALYSTEGIA SEPIUM,,Inconsistent identification across years,,No,Yes
+hnvr.us,CAREX SP.,CAREX GRACILLIMA,,Inconsistent identification across years,,No,Yes
+hopl.us,UNKNOWN APIACEAE SP.,DAUCUS PUSILLUS,,,,No,Yes
+hopl.us,DAUCUS SP.,DAUCUS PUSILLUS,,,,No,Yes
+hopl.us,SANICULA SP.,SANICULA BIPINNATA,,,,No,Yes
+hopl.us,TORILIS ARVENSIS,TORILIS SP.,,,,No,Yes
+hopl.us,TORILIS NODOSA,TORILIS SP.,,,,No,Yes
+hopl.us,BRODIAEA CORONARIA,TRITELEIA SP.,,,,No,Yes
+hopl.us,BRODIAEA SP.,TRITELEIA SP.,,,,No,Yes
+hopl.us,PLAGIOBOTHRYS SP.,PLAGIOBOTHRYS NOTHOFULVUS,,,,No,Yes
+hopl.us,CENTAUREA SP.,CENTAUREA MELITENSIS,,,,No,Yes
+hopl.us,MADIA GRACILIS,MADIA SP.,,,,No,Yes
+hopl.us,MADIA SATIVA,MADIA SP.,,,,No,Yes
+hopl.us,EUPHORBIA SP.,EUPHORBIA PEPLUS,,,,No,Yes
+hopl.us,UNKNOWN EUPHORBIACEAE,EUPHORBIA SPATHULATA,,,,No,Yes
+hopl.us,LATHYRUS SP.,LATHYRUS SPHAERICUS,,,,No,Yes
+hopl.us,LOTUS SP.,ACMISPON WRANGELIANUS,,,,No,Yes
+hopl.us,LUPINUS BICOLOR,LUPINUS SP.,,,,No,Yes
+hopl.us,LUPINUS NANUS,LUPINUS SP.,,,,No,Yes
+hopl.us,TRIFOLIUM ALBOPURPUREUM,TRIFOLIUM SP.,,,,No,Yes
+hopl.us,TRIFOLIUM BIFIDUM,TRIFOLIUM SP.,,,,No,Yes
+hopl.us,TRIFOLIUM CILIOLATUM,TRIFOLIUM SP.,,,,No,Yes
+hopl.us,TRIFOLIUM DUBIUM,TRIFOLIUM SP.,,,,No,Yes
+hopl.us,TRIFOLIUM GRACILENTUM,TRIFOLIUM SP.,,,,No,Yes
+hopl.us,TRIFOLIUM MICROCEPHALUM,TRIFOLIUM SP.,,,,No,Yes
+hopl.us,TRIFOLIUM WILLDENOVII,TRIFOLIUM SP.,,,,No,Yes
+hopl.us,VICIA AMERICANA,VICIA SATIVA,,,,No,Yes
+hopl.us,VICIA SP.,VICIA SATIVA,,,,No,Yes
+hopl.us,CLARKIA SP.,CLARKIA PURPUREA,,,,No,Yes
+hopl.us,AEGILOPS SP.,AEGILOPS TRIUNCIALIS,,,,No,Yes
+hopl.us,AVENA FATUA,AVENA BARBATA,,,,No,Yes
+hopl.us,CRATAEGUS SP.,CRATAEGUS DOUGLASII,,,,No,Yes
+hopl.us,GALIUM APARINE,GALIUM SP.,,,,No,Yes
+hopl.us,GALIUM PARISIENSE,GALIUM SP.,,,,No,Yes
+hopl.us,UNKNOWN ASTERACEAE SP.,MADIA SP.,,assign to dominant taxon in Family,,No,Yes
+hopl.us,UNKNOWN LILIACEAE,CALOCHORTUS VENUSTUS,,assign to dominant taxon in Family,,No,Yes
+jena.de,,,no changes,no changes,,Yes,No
+kbs.us,UNKNOWN ASTERACEAE,SOLIDAGO CANADENSIS,,assign to dominant taxon in Family,,No,Yes
+kbs.us,UNKNOWN BRASSICACEAE,BARBAREA VULGARIS,,assign to dominant taxon in Family,,No,Yes
+kbs.us,MELILOTUS OFFICINALIS SSP. ALBA,MELILOTUS OFFICINALIS,,Aggregate at species level,,No,Yes
+kbs.us,MELILOTUS SP.,MELILOTUS OFFICINALIS,,,,No,Yes
+kbs.us,TRIFOLIUM,TRIFOLIUM REPENS,,,,No,Yes
+kbs.us,UNKNOWN PTERIDOPHYTA,ASPLENIUM PLATYNEURON,assign to dominant taxon in Family,assign to dominant taxon in Family,Aspleniaceae,No,Yes
+kbs.us,SETARIA SP.,SETARIA PUMILA,,,,No,Yes
+kbs.us,UNKNOWN GRASS,ARRHENATHERUM ELATIUS,,,,No,Yes
+kbs.us,ACER SP.,ACER NEGUNDO,,,,No,Yes
+kbs.us,VITIS SP. (kbs.us),VITIS SP.,,global taxon name,,No,Yes
+kibber.in,UNKNOWN GRASS SP.,ELYMUS LONGIARISTATUS,,,,No,Yes
+kibber.in,POLYGONUM AVICULARE,POLYGONUM SP.,,,,No,Yes
+kilp.fi,LEONTODON AUTUMNALIS var. TARAXACI,SCORZONEROIDES AUTUMNALIS,,,,No,Yes
+kilp.fi,EMPETRUM NIGRUM SSP. HERMAPHRODITUM,EMPETRUM NIGRUM,,Aggregate at species level,,No,Yes
+kilp.fi,RANUNCULUS ACRIS SSP. PUMILUS,RANUNCULUS ACRIS,,Aggregate at species level,,No,Yes
+kiny.au,ARTHROPODIUM SP.,ARTHROPODIUM MINUS,,,,No,Yes
+kiny.au,ATRIPLEX SP.,ATRIPLEX SEMIBACCATA,,,,No,Yes
+kiny.au,MAIREANA SP.,MAIREANA ENCHYLAENOIDES,,,,No,Yes
+kiny.au,RHODANTHE SP.,RHODANTHE CORYMBIFLORA,,,,No,Yes
+kiny.au,SONCHUS SP.,SONCHUS OLERACEUS,,,,No,Yes
+kiny.au,SONCHUS ASPER,SONCHUS OLERACEUS,,,,No,Yes
+kiny.au,CRASSULA SP.,CRASSULA SIEBERIANA,,,,No,Yes
+kiny.au,TRIFOLIUM ,TRIFOLIUM SP.,,,,No,Yes
+kiny.au,TRIFOLIUM DUBIUM,TRIFOLIUM SP.,,,,No,Yes
+kiny.au,TRIFOLIUM GLOMERATUM,TRIFOLIUM SP.,,,,No,Yes
+kiny.au,TRIFOLIUM ARVENSE,TRIFOLIUM SP.,,,,No,Yes
+kiny.au,AVENA SP.,AVENA BARBATA,,,,No,Yes
+kiny.au,AVENA FATUA,AVENA BARBATA,,,,No,Yes
+kiny.au,BROMUS SP.,BROMUS RUBENS,,,,No,Yes
+kiny.au,LOLIUM PERENNE,LOLIUM SP.,,,,No,Yes
+kiny.au,LOLIUM RIGIDUM,LOLIUM SP.,,,,No,Yes
+kiny.au,RYTIDOSPERMA ,RYTIDOSPERMA SP.,,Spelling,,No,Yes
+kiny.au,VULPIA SP.,VULPIA BROMOIDES,,,,No,Yes
+kiny.au,UNKNOWN ASTERACEAE ,SONCHUS OLERACEUS,,assign to dominant taxon in Family,,No,Yes
+kiny.au,UNKNOWN GRASS,RYTIDOSPERMA SP.,,assign to dominant taxon in Family,,No,Yes
+koffler.ca,UNKNOWN ASTERACEAE ,SOLIDAGO ALTISSIMA,,assign to dominant taxon of Family,,No,Yes
+koffler.ca,CAREX SP.,CAREX PLANTAGINEA,,Inconsistent identification across years,,No,Yes
+koffler.ca,UNKNOWN CYPERACEAE SP.,CAREX PLANTAGINEA,,Inconsistent identification across years,,No,Yes
+koffler.ca,UNKNOWN ROSACEAE ,PRUNUS SP.,,assign to dominant taxon of Family,,No,Yes
+koffler.ca,GALIUM SP. (koffler.ca),GALIUM SP.,,global taxon name,,No,Yes
+konz.us,EUPHORBIA SERPENS,EUPHORBIA NUTANS,,Inconsistent identification across years,confirmed with Kim Komatsu in 2019,No,Yes
+konz.us,MUHLENBERGIA CUSPIDATA,MUHLENBERGIA RACEMOSA,,Inconsistent identification across years,confirmed with Kim Komatsu in 2019,No,Yes
+lagoas.br,POLICARPAEA CORYMBOSA,POLYCARPAEA CORYMBOSA,,Spelling,,No,Yes
+lake.us,DALEA SP.,DALEA CANDIDA,,,,No,Yes
+lake.us,MELILOTUS ALBUS,MELILOTUS SP.,,,,No,Yes
+lake.us,MELILOTUS OFFICINALIS,MELILOTUS SP.,,,,No,Yes
+lake.us,SOLANUM SP.,SOLANUM AMERICANUM,,,,No,Yes
+lancaster.uk,,,no changes,,,Yes,No
+look.us,UNKNOWN APIACEAE SP.,ANGELICA GENUFLEXA,,,,No,Yes
+look.us,UNKNOWN BRASSICACEAE SP.,ERYSIMUM CAPITATUM,,,,No,Yes
+look.us,UNKNOWN CARYOPHYLLACEAE SP.,MOEHRINGIA LATERIFLORA,,,,No,Yes
+look.us,CAREX HOODII,CAREX PENSYLVANICA,,,,No,Yes
+look.us,GALIUM SP.,GALIUM OREGANUM,,,,No,Yes
+look.us,UNKNOWN ASTERACEAE SP.,ERIGERON ALICEAE,,assign to dominant taxon of Family,,No,Yes
+marc.ar,,,striking absence of Cyperaceae in pretreatment,,,Yes,No
+marc.ar,,,striking absence of Juncaceae in pretreatment,,,Yes,No
+marc.ar,UNKNOWN GRASS ,BROMUS CATHARTICUS,,Spelling; assign to dominant taxon of Family,,No,Yes
+marc.ar,UNKNOWN GRASS,BROMUS CATHARTICUS,,assign to dominant taxon of Family,,No,Yes
+mcla.us,BRODIAEA SP.,DICHELOSTEMMA CAPITATUM,,,,No,Yes
+mcla.us,TRITELEIA LAXA,DICHELOSTEMMA CAPITATUM,,,,No,Yes
+mcla.us,TRITELEIA SP.,DICHELOSTEMMA CAPITATUM,,,,No,Yes
+mcla.us,UNKNOWN LILIACEAE,CALOCHORTUS VENUSTUS,,,,No,Yes
+mcla.us,CENTAUREA MELITENSIS,CENTAUREA SP.,,,,No,Yes
+mcla.us,CENTAUREA SOLSTITIALIS,CENTAUREA SP.,,,,No,Yes
+mcla.us,LUPINUS BICOLOR,LUPINUS SP.,,,,No,Yes
+mcla.us,LUPINUS NANUS,LUPINUS SP.,,,,No,Yes
+mcla.us,LUPINUS SUCCULENTUS,LUPINUS SP.,,,,No,Yes
+mcla.us,TRIFOLIUM SP.,TRIFOLIUM FUCATUM,,,,No,Yes
+mcla.us,AVENA BARBATA,AVENA FATUA,,,,No,Yes
+mcla.us,POA SP.,POA SECUNDA,,,,No,Yes
+mcla.us,UNKNOWN GRASS,POA SECUNDA,,,,No,Yes
+mcla.us,UNKNOWN BRASSICACEAE,ATHYSANUS PUSILLUS,,assign to dominant taxon of Family,,No,Yes
+mcla.us,UNKNOWN ASTERACEAE,CENTAUREA SP.,,assign to dominant taxon of Family,,No,Yes
+msla.us,ANTENNARIA SP.,ANTENNARIA MICROPHYLLA,plot 4,Inconsistent identification across years,,No,Yes
+msla.us,ANTENNARIA ROSEA,ANTENNARIA MICROPHYLLA,plot 26,Inconsistent identification across years,,No,Yes
+msla_2.us,ANTENNARIA SP.,ANTENNARIA PARVIFOLIA,plot 11; Antennaria dimorpha also present,,,No,Yes
+msla_2.us,ERIGERON SP. (msla.us),ERIGERON DIVERGENS,plot 21,No congeners recorded,,No,Yes
+msla_3.us,ANTENNARIA SP.,ANTENNARIA MICROPHYLLA,plot 13,Inconsistent identification across years,,No,Yes
+mtca.au,PETRORHAGIA SP. (mtca.au),PETRORHAGIA DUBIA,,Inconsistent identification across years,,No,Yes
+mtca.au,URSINIA SP. (mtca.au),URSINIA ANTHEMOIDES,,Inconsistent identification across years,,No,Yes
+mtca.au,HORDEUM MURINUM SSP. LEPORINUM,HORDEUM MURINUM,,Aggregate at species level,,No,Yes
+mtca.au,PENTASCHISTIS SP. (mtca.au),PENTASCHISTIS AIROIDES,,Inconsistent identification across years,,No,Yes
+mtca.au,STIPA SP.,STIPA NITIDA_TRICHOPHYLLA,,Inconsistent identification across years,,No,Yes
+mtca.au,VULPIA SP. (mtca.au),VULPIA MYUROS,,Inconsistent identification across years,,No,Yes
+mtca.au,ZALUZIANSKYA SP. (mtca.au),ZALUZIANSKYA DIVARICATA,,Inconsistent identification across years,,No,Yes
+neba.jp,CARPINUS SP. (neba.jp),CARPINUS SP.,,global taxon name,,No,Yes
+neba.jp,STELLARIA SP. (neba.jp),STELLARIA ULIGINOSA,confirmed with Muu Akasaka,No congeners recorded,,No,Yes
+neba.jp,ERIGERON STRIGOSUS,ERIGERON PHILADELPHICUS,confirmed with Muu Akasaka,Inconsistent identification across years,,No,Yes
+neba.jp,JUNCUS POLYANTHEMUS,JUNCUS DECIPIENS,Juncus polyanthemus only in 2016; Juncus decipiens in all other years; confirmed with Muu Akasaka,Inconsistent identification across years,,No,Yes
+neba.jp,CLINOPODIUM MULTICAULE,CLINOPODIUM MICRANTHUM,confirmed with Muu Akasaka,Inconsistent identification across years,,No,Yes
+neba.jp,AGROSTIS CLAVATA,AGROSTIS SP.,"Agrostis sp. Not distinguished in 2016, 2017; confirmed with Muu Akasaka",Inconsistent identification across years,,No,Yes
+neba.jp,AGROSTIS GIGANTEA,AGROSTIS SP.,"Agrostis sp. Not distinguished in 2016, 2017; confirmed with Muu Akasaka",Inconsistent identification across years,,No,Yes
+neba.jp,AGROSTIS SP. (neba.jp),AGROSTIS SP.,confirmed with Muu Akasaka,global taxon name,,No,Yes
+neba.jp,FESTUCA PRATENSIS,FESTUCA RUBRA,confirmed with Muu Akasaka,Inconsistent identification across years,,No,Yes
+neba.jp,POA TRIVIALIS,POA PRATENSIS,"Poa trivialis in first three years, then Poa pratensis; confirmed with Muu Akasaka",Inconsistent identification across years,,No,Yes
+neba.jp,SACCIOLEPIS SP. (neba.jp),SACCIOLEPIS SP.,,global taxon name,,No,Yes
+neba.jp,UNKNOWN POACEAE SP. (NEBA.JP),PENNISETUM ALOPECUROIDES,Unknown Poaceae in 2017; no Pennisetum alopecuroides in that year but present in same plots in later years; confirmed with Muu Akasaka,Inconsistent identification across years,,No,Yes
+neba.jp,UNKNOWN POLYGONACEAE SP. (NEBA.JP),UNKNOWN POLYGONACEAE SP.,recorded in same plot in 2018 and 2019,global taxon name,,No,Yes
+neba.jp,CERASUS SP. (neba.jp),CERASUS SP.,,global taxon name,,No,Yes
+neba.jp,UNKNOWN ROSACEAE SP. (NEBA.JP),UNKNOWN ROSACEAE SP.,one record in 2016; most other taxa in Family also recorded that year,global taxon name,,No,Yes
+neba.jp,UNKNOWN RUBIACEAE SP. (NEBA.JP),UNKNOWN RUBIACEAE SP,one record in 2018; other taxon in Family also recorded that year,global taxon name,,No,Yes
+neba.jp,UNKNOWN SCROPHULARIACEAE SP. (NEBA.JP),UNKNOWN SCROPHULARIACEAE SP.,one record in 2018; other taxon in Family also recorded that year,global taxon name,,No,Yes
+nilla.au,,,no changes,,,Yes,No
+pape.de,,,no changes,,,Yes,No
+ping.au,UNKNOWN GRASS SP.,AVENA BARBATA,,assign to dominant taxon of Family,,No,Yes
+pinj.au,MEDICAGO POLYMORPHA,MEDICAGO SP.,,,,No,Yes
+pinj.au,UNKNOWN FABACEAE,INDIGOFERA HIRSUTA,,assign to dominant taxon of Family,,No,Yes
+potrok.ar,,,no changes,,,Yes,No
+potrok.ar,,,data unusually consistent over time,,,Yes,No
+rook.uk,,,no changes,,,Yes,No
+saana.fi,,,no changes,,,Yes,No
+sage.us,,,no changes,,,Yes,No
+saline.us,,,Asclepias syriaca == Apocynum cannabinum?,,,Yes,No
+saline.us,,,note strong reversal in Sporobolus sp. In years 1 & 2,,,Yes,No
+saline.us,LIATRIS PUNCTATA,LIATRIS MUCRONATA,,,,No,Yes
+saline.us,SOLIDAGO RIGIDA,SOLIDAGO CANADENSIS,,,,No,Yes
+saline.us,EUPHORBIA DENTATA,EUPHORBIA SP.,,,,No,Yes
+saline.us,EUPHORBIA MARGINATA,EUPHORBIA SP.,,,,No,Yes
+saline.us,EUPHORBIA NUTANS,EUPHORBIA SP.,,,,No,Yes
+saline.us,EUPHORBIA SERPENS,EUPHORBIA SP.,,,,No,Yes
+saline.us,EUPHORBIA SPATHULATA,EUPHORBIA SP.,,,,No,Yes
+saline.us,SOLANUM SP.,SOLANUM PTYCHANTHUM,,,,No,Yes
+saline.us,SOLANUM ROSTRATUM,SOLANUM PTYCHANTHUM,,,,No,Yes
+saline.us,UNKNOWN ASTERACEAE,AMBROSIA PSILOSTACHYA,,assign to dominant taxon of Family,,No,Yes
+saline.us,UNKNOWN LAMIACEAE,SALVIA AZUREA,,assign to dominant taxon of Family,,No,Yes
+sava.us,VACCINIUM VIRGATUM,VACCINIUM STAMINEUM,,,,No,Yes
+sava.us,QUERCUS FALCATA,QUERCUS MARGARETTIAE,,,,No,Yes
+sava.us,DANTHONIA SERICEA,ERAGROSTIS SPECTABILIS,,,,No,Yes
+sava.us,MUHLENBERGIA CAPILLARIS,ERAGROSTIS SPECTABILIS,,,,No,Yes
+sava.us,RUBUS CUNEIFOLIUS,RUBUS FLAGELLARIS,,,,No,Yes
+sava.us,SMILAX BONA-NOX,SMILAX MARITIMA,,,,No,Yes
+sedg.us,ASTER SP.,CORETHROGYNE FILAGINIFOLIA,Aster genus not in New World flora,Synonyms,,No,Yes
+sedg.us,CIRSIUM SP.,CARDUUS PYCNOCEPHALUS,5 records in pretreatment; Carduus in subsequent years,Common misidentification,,No,Yes
+sedg.us,TRIFOLIUM MICROCEPHALUM,TRIFOLIUM SP.,1 entry in 2008,No congeners recorded,,No,Yes
+sereng.tz,CYPERUS MOLLIPES,CYPERUS NIVEUS var. LEUCOCEPHALUS,,,,No,Yes
+sereng.tz,MARISCUS SP.,CYPERUS NIVEUS var. LEUCOCEPHALUS,,,,No,Yes
+sereng.tz,CYPERUS REMOTUS,CYPERUS SQUARROSUS,,,,No,Yes
+sereng.tz,KYLLINGA NERVOSA,KYLLINGA SP.,,,,No,Yes
+sereng.tz,KYLLINGA ALBA,KYLLINGA SP.,,,,No,Yes
+sereng.tz,DACTYLOCTENIUM SP.,DACTYLOCTENIUM AEGYPTIUM,,,,No,Yes
+sereng.tz,UNKNOWN ACANTHACEAE,JUSTICIA ANSELLIANA,,assign to dominant taxon of Family,,No,Yes
+sereng.tz,UNKNOWN CYPERACEAE,CYPERUS NIVEUS var. LEUCOCEPHALUS,,assign to dominant taxon of Family,,No,Yes
+sevi.us,,,HOFFMANNSEGGIA GLAUCA == POMARIA JAMESII?,,,Yes,No
+sevi.us,SALSOLA KALI SSP. TRAGUS,SALSOLA KALI,,Aggregate at species level,,No,Yes
+sevi.us,EUPHORBIA SP.,EUPHORBIA ALBOMARGINATA,,,,No,Yes
+sevi.us,SPHAERALCEA COCCINEA,SPHAERALCEA SP.,,,,No,Yes
+sevi.us,SPHAERALCEA HASTULATA,SPHAERALCEA SP.,,,,No,Yes
+sevi.us,SPHAERALCEA POLYCHROMA,SPHAERALCEA SP.,,,,No,Yes
+sevi.us,SPOROBOLUS CONTRACTUS,SPOROBOLUS SP.,,,,No,Yes
+sevi.us,SPOROBOLUS CRYPTANDRUS,SPOROBOLUS SP.,,,,No,Yes
+sevi.us,SPOROBOLUS FLEXUOSUS,SPOROBOLUS SP.,,,,No,Yes
+sgs.us,,,Oxytropis widespread but only in year 2??,,,Yes,No
+sgs.us,AMARANTHUS SP.,AMARANTHUS GRAECIZANS,,No congeners recorded,,No,Yes
+sgs.us,EUPHORBIA BRACHYCERA,EUPHORBIA GLYPTOSPERMA,only in Year 0,Inconsistent identification across years,,No,Yes
+sgs.us,EUPHORBIA SP.,EUPHORBIA GLYPTOSPERMA,only in Year 5,Inconsistent identification across years,,No,Yes
+sgs.us,ASTRAGALUS SP.,ASTRAGALUS BISULCATUS,plot 8,No congeners recorded,,No,Yes
+sgs.us,ELYMUS CANADENSIS,ELYMUS ELYMOIDES,only in Year 5,Inconsistent identification across years,,No,Yes
+sgs.us,SCHEDONNARDUS PANICULATUS,ELYMUS ELYMOIDES,only in Year 0,Inconsistent identification across years,,No,Yes
+sgs.us,SOLANUM SP.,SOLANUM ROSTRATUM,plot 23,No congeners recorded,,No,Yes
+shps.us,UNKNOWN AMARANTHACEAE SP.,CHENOPODIUM LEPTOPHYLLUM,,,,No,Yes
+shps.us,BRODIAEA SP. (shps.us),BRODIAEA SP.,,global taxon name,,No,Yes
+shps.us,LAPPULA REDOWSKII,LAPPULA OCCIDENTALIS var. OCCIDENTALIS,,,,No,Yes
+shps.us,UNKNOWN BRASSICACEAE SP.,ALYSSUM DESERTORUM,widespread; surprising that it's unknown; assign to dominant taxon of Family,assign to dominant taxon of Family,,No,Yes
+shps.us,ANTENNARIA SP.,ANTENNARIA ROSEA,,,,No,Yes
+shps.us,ANTENNARIA DIMORPHA,ANTENNARIA ROSEA,,,,No,Yes
+shps.us,PSEUDOSCLEROCHLOA RUPESTRIS,POA SECUNDA,,Inconsistent identification across years,,No,Yes
+shps.us,CASTILLEJA SP. (shps.us),CASTILLEJA ANGUSTIFOLIA,,,,No,Yes
+sier.us,,,what is Aster?,,,Yes,No
+sier.us,TORILIS ARVENSIS,TORILIS SP.,,,,No,Yes
+sier.us,TORILIS NODOSA,TORILIS SP.,,,,No,Yes
+sier.us,TORILIS,TORILIS SP.,,,,No,Yes
+sier.us,UNKNOWN APIACEAE,DAUCUS PUSILLUS,,,,No,Yes
+sier.us,BRODIAEA SP.,TRITELEIA HYACINTHINA,,,,No,Yes
+sier.us,TRITELEIA LAXA,TRITELEIA HYACINTHINA,,,,No,Yes
+sier.us,TRITELEIA SP.,TRITELEIA HYACINTHINA,,,,No,Yes
+sier.us,DICHELOSTEMMA MULTIFLORUM,DICHELOSTEMMA CAPITATUM,,,,No,Yes
+sier.us,DICHELOSTEMMA VOLUBILE,DICHELOSTEMMA CAPITATUM,,,,No,Yes
+sier.us,PLAGIOBOTHRYS SP.,PLAGIOBOTHRYS NOTHOFULVUS,,,,No,Yes
+sier.us,CARDAMINE SP.,CARDAMINE OLIGOSPERMA,,,,No,Yes
+sier.us,LEPIDIUM SP.,CARDAMINE OLIGOSPERMA,,,,No,Yes
+sier.us,SILENE GALLICA,PETRORHAGIA DUBIA,,,,No,Yes
+sier.us,STELLARIA SP.,STELLARIA MEDIA,,,,No,Yes
+sier.us,HEMIZONIA,HEMIZONIA CONGESTA,,,,No,Yes
+sier.us,MADIA GRACILIS,MADIA SP.,,,,No,Yes
+sier.us,MADIA SATIVA,MADIA SP.,,,,No,Yes
+sier.us,UNKNOWN ASTERACEAE,ASTER SP.,,,,No,Yes
+sier.us,CONVOLVULUS SP.,CONVOLVULUS ARVENSIS,,,,No,Yes
+sier.us,LUPINUS BICOLOR,LUPINUS SP.,,,,No,Yes
+sier.us,LUPINUS NANUS,LUPINUS SP.,,,,No,Yes
+sier.us,LUPINUS,LUPINUS SP.,,,,No,Yes
+sier.us,TRIFOLIUM SP.,TRIFOLIUM DUBIUM,,,,No,Yes
+sier.us,VICIA SP.,VICIA SATIVA,,,,No,Yes
+sier.us,ERODIUM SP.,ERODIUM BOTRYS,,,,No,Yes
+sier.us,CLARKIA SP.,CLARKIA PURPUREA,,,,No,Yes
+sier.us,UNKNOWN ONAGRACEAE SP.,EPILOBIUM SP.,,,,No,Yes
+sier.us,HORDEUM MARINUM,HORDEUM MURINUM,,Spelling,,No,Yes
+sier.us,LINANTHUS SP.,LINANTHUS BICOLOR,,,,No,Yes
+sier.us,GALIUM SP.,GALIUM PARISIENSE,,,,No,Yes
+sier.us,UNKNOWN CARYOPHYLLACEAE,CERASTIUM GLOMERATUM,,assign to dominant taxon of Family,,No,Yes
+sier.us,UNKNOWN ASTERACEAE SP.,MADIA SP.,,assign to dominant taxon of Family,,No,Yes
+smith.us,,,no changes,,,Yes,No
+spin.us,LYCHNIS LATIFOLIA SSP. ALBA,SILENE LATIFOLIA,,Synonyms,,No,Yes
+spin.us,UNKNOWN CYPERACEAE,CAREX SP.,,,,No,Yes
+spin.us,UNKNOWN ASTERACEAE,TARAXACUM CAMPYLODES,,assign to dominant taxon of Family,,No,Yes
+summ.za,,,no changes,,,Yes,No
+temple.us,POLYTAENIA TEXANA,POLYTAENIA NUTTALLII,conversation with P. Fay,,,No,Yes
+temple.us,TORILIS SP.,TORILIS ARVENSIS,,,,No,Yes
+temple.us,LACTUCA SP.,LACTUCA SERRIOLA,,,,No,Yes
+temple.us,LACTUCA SERIOLA,LACTUCA SERRIOLA,,Spelling,,No,Yes
+temple.us,SONCHUS SP.,SONCHUS ASPER,,,,No,Yes
+temple.us,MIMOSA QUADRIVALVIS var. PLATYCARPA,MIMOSA NUTTALLII,,,,No,Yes
+temple.us,UNKNOWN FABACEAE,PSORALIDIUM TENUIFLORUM,,assign to dominant taxon of Family,,No,Yes
+temple.us,VICIA SP.,VICIA VILLOSA,,,,No,Yes
+temple.us,AGALINIS SP.,AGALINIS FASCICULATA,,,,No,Yes
+temple.us,SPOROBOLUS SP.,SPOROBOLUS COMPOSITUS,,,,No,Yes
+temple.us,UNKNOWN GRASS,SCHIZACHYRIUM SCOPARIUM,,assign to dominant taxon of Family,,No,Yes
+thth.is,FESTUCA RICHARDSONII,FESTUCA SP.,,,,No,Yes
+thth.is,FESTUCA RUBRA,FESTUCA SP.,,,,No,Yes
+thth.is,RUMEX SP.,RUMEX ACETOSA,,,,No,Yes
+thth.is,VIOLA SP.,VIOLA PALUSTRIS,,,,No,Yes
+tmlr.is,AGROSTIS SP.,AGROSTIS STOLONIFERA,,,,No,Yes
+tmlr.is,FESTUCA RICHARDSONII,FESTUCA SP.,,,,No,Yes
+tmlr.is,FESTUCA RUBRA,FESTUCA SP.,,,,No,Yes
+tmlr.is,RUMEX SP.,RUMEX ACETOSA,,,,No,Yes
+trel.us,,,no Juncus in 2008?,,,Yes,No
+trel.us,,,no Carex in 2009 or 2010?,,,Yes,No
+trel.us,BROMUS SP.,BROMUS INERMIS,,,,No,Yes
+ukul.za,PACHYCARPUS SP.,PACHYCARPUS SCABER,,,,No,Yes
+ukul.za,ACACIA SP.,ACACIA NILOTICA SSP. KRAUSSIANA,,,,No,Yes
+ukul.za,CHAMAECRISTA COMOSA,CHAMAECRISTA SP.,,,,No,Yes
+ukul.za,CHAMAECRISTA PLUMOSA,CHAMAECRISTA SP.,,,,No,Yes
+ukul.za,CROTALARIA GLOBIFERA,CROTALARIA SP.,,,,No,Yes
+ukul.za,ALBUCA,ALBUCA SETOSA,,,,No,Yes
+ukul.za,LEDEBOURIA SP.,LEDEBOURIA COOPERI,,,,No,Yes
+ukul.za,HYPERICUM AETHIOPICUM SSP. SONDERI,HYPERICUM SP.,,,,No,Yes
+ukul.za,LEONOTIS OCYMIFOLIA var. RAINERIANA,LEONOTIS LEONURUS,,,,No,Yes
+ukul.za,SOLANUM SP.,SOLANUM MAURITIANUM,,,,No,Yes
+ukul.za,UNKNOWN CYPERACEAE SP.,BULBOSTYLIS,,assign to dominant taxon of Family,,No,Yes
+ukul.za,UNKNOWN FABACEAE SP.,ERIOSEMA CORDATUM,,assign to dominant taxon of Family,,No,Yes
+ukul.za,UNKNOWN GRASS,SETARIA NIGRIROSTRIS,,assign to dominant taxon of Family,,No,Yes
+unc.us,ERIGERON SP.,ERIGERON ANNUUS,,,,No,Yes
+unc.us,SOLIDAGO SP.,SOLIDAGO PINETORUM,,,,No,Yes
+unc.us,UNKNOWN ASTERACEAE,VERBESINA OCCIDENTALIS,,,,No,Yes
+unc.us,PANICUM DICHOTOMUM,PANICUM SP.,,,,No,Yes
+unc.us,PANICUM LINEARIFOLIUM,PANICUM SP.,,,,No,Yes
+unc.us,SMILAX BONA-NOX,SMILAX ROTUNDIFOLIA,,,,No,Yes
+unc.us,UNKNOWN GRASS,SCHEDONORUS SP.,,assign to dominant taxon of Family,,No,Yes
+valm.ch,,,no changes,,,Yes,No
+veluwe.nl,VERONICA SP.,VERONICA OFFICINALIS,,,,No,Yes
+yarra.au,WAHLENBERGIA SP. (yarra.au),WAHLENBERGIA GRACILIS,,global taxon name,,No,Yes
+yarra.au,LEONTODON SP.,LEONTODON HISPIDUS,,,,No,Yes
+yarra.au,VICIA SP.,VICIA SATIVA,,,,No,Yes
+yarra.au,DICHELACHNE SP.,DICHELACHNE SQUAMULOSUM,,,,No,Yes
+yarra.au,PASPALUM DILATATUM,PASPALUM SP.,,,,No,Yes
+yarra.au,PASPALUM NOTATUM,PASPALUM SP.,,,,No,Yes
+yarra.au,SPOROBOLUS SP.,SPOROBOLUS AFRICANUS,,,,No,Yes
+yarra.au,UNKNOWN GRASS ,SPOROBOLUS AFRICANUS,,,,No,Yes
+yarra.au,RUMEX SP.,RUMEX ACETOSA,,,,No,Yes
+yarra.au,VERBENA SP. (yarra.au),VERBENA SP.,,global taxon name,,No,Yes
