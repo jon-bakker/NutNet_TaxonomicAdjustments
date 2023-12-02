@@ -1,7 +1,7 @@
 # NutNet_TaxonomicAdjustments
 Taxonomic adjustments for NutNet compositional data to ensure consistent naming within a site over time.  Note that this script does **not** consider taxonomic consistency among sites.
 
-Taxonomic adjustments have been considered for all sites with at least 4 years of data.  In the current data release (**June 28, 2023**), this is **84 sites** (varheath.no is also included as it had 4 years of data in some earlier data releases, though currently only 3 years are recorded).
+Taxonomic adjustments have been considered for all sites with at least 4 years of data.  In the current data release (**November 7, 2023**), this is **85 sites**.
 
 Taxonomic adjustments can be necessary for many reasons - see the below description of the 'Reason' column in the CSV file.
 
@@ -30,14 +30,19 @@ The columns in the CSV file are as follows:
 - Omit - binary; whether to apply this adjustment (No) or to omit it (Yes). It is counter-intuitive to have to flag the entries that you want to omit, so this field has been replaced by the 'Apply' field and will be eliminated in the future.
 - Apply - binary; whether to apply this adjustment (Yes) or to omit it (No).  For example, all entries where the reason is 'no changes' are set to Apply == No.
 
-The data import script (Data.Import.Taxonomic.Adjustments.script.YYMMDD.R) loads the data (not included here; available to authorized users through the NutNet dropbox folder), creates a species list for each site based on the raw cover data, applies the taxonomic adjustments function, and creates a species list based on the adjusted cover data for each site with at least 4 years of data.  The species lists can be easily ignored if desired.  If run, they require two destination folders, 'output/raw' and 'output/adjusted', within your working directory.  The 'output/raw' folder will receive a summary of the raw data for each site (currently, n = 143). The 'output/adjusted' folder will receive a summary of the data after taxonomic adjustments for each site with at least 4 years of data (currently, n = 84).
+The data import script (Data.Import.Taxonomic.Adjustments.script.YYMMDD.R) loads the data (not included here; available to authorized users through the NutNet dropbox folder), creates a species list for each site based on the raw cover data, applies the taxonomic adjustments function, and creates a species list based on the adjusted cover data for each site with at least 4 years of data.  The species lists can be easily ignored if desired.  If run, they require two destination folders, 'output/raw' and 'output/adjusted', within your working directory.  The 'output/raw' folder will receive a summary of the raw data for each site (currently, n = 161). The 'output/adjusted' folder will receive a summary of the data after taxonomic adjustments for each site with at least 4 years of data (currently, n = 85).
 
 The workflow of the taxonomic adjustments function (Taxonomic.Adjustments.function.YYMMDD.R) is as follows:
+- Print to screen the number of number of records present in datafile.
 - Drop non-vascular plants (mosses, lichens, fungi), but retain Selaginella as vascular plants.
+- Adjust some life history information and drop taxa not assigned to a plant family.
 - Merge original data file with set of adjustments.
+- A few taxa in a few sites do not have consistent life history information (e.g., lifespan reported for some entries but not for others); these unknowns are omitted so that there is a single record for each site-taxon combination. 
 - If a given taxon at a given site has a recommended adjustment, replace the name in the 'Taxon' field with that in the 'NewTaxon' field.  If the recommended 'NewTaxon' is from a different plant family, or a family was not provided originally, the entry in the 'Family' field is also replaced with that in the 'NewFamily' field.  Taxa without recommended adjustments are unchanged.
-- Drop records in which the Taxon was not assigned to a plant family.  This includes all substrates (non-living).
+- Check whether any of the recommended adjustments were not made (e.g., if they were incorrectly spelled) and print to screen whether "all adjustments made" or to "check Taxon names in adjustments".
 - Recalculate the cover of each taxon in each plot-year so that multiple entires of a taxon are replaced by a single entry consisting of the summed cover of all entries assigned to it.
 - Set the maximum possible cover of a species to 100%.
+- Check for conflicting life history information, such as two entries with different provenances for the same site-taxon combination.  Print to screen either "no duplicate records" or "check for duplicate records".
+- Print to screen the number of adjustments made and the number of records present after adjustments.
 
 **Please reach out to Jon Bakker (jbakker@uw.edu) if you have issues with this code or feel other/different taxonomic adjustments are warranted.**
