@@ -1,7 +1,7 @@
 # NutNet_TaxonomicAdjustments
 Taxonomic adjustments for NutNet compositional data to ensure consistent naming within a site over time.  Note that this script does **not** consider taxonomic consistency among sites.
 
-Taxonomic adjustments have been considered for all sites with at least 4 years of data.  In the current data release (**May 31, 2024**), this is **85 sites**.
+Taxonomic adjustments have been considered for all sites with at least 4 years of data.  In the current data release (**January 31, 2025**), this is **86 sites**.
 
 Taxonomic adjustments can be necessary for many reasons - see the below description of the 'Reason' column in the CSV file.
 
@@ -30,7 +30,7 @@ The columns in the CSV file are as follows:
 - Omit - binary; whether to apply this adjustment (No) or to omit it (Yes). It is counter-intuitive to have to flag the entries that you want to omit, so this field has been replaced by the 'Apply' field and will be eliminated in the future.
 - Apply - binary; whether to apply this adjustment (Yes) or to omit it (No).  For example, all entries where the reason is 'no changes' are set to Apply == No.
 
-The data import script (Data.Import.Taxonomic.Adjustments.script.YYMMDD.R) loads the data (not included here; available to authorized users through the NutNet dropbox folder), creates a species list for each site based on the raw cover data, applies the taxonomic adjustments function, and creates a species list based on the adjusted cover data for each site with at least 4 years of data.  The species lists can be easily ignored if desired.  If run, they require two destination folders, 'output/raw' and 'output/adjusted', within your working directory.  The 'output/raw' folder will receive a summary of the raw data for each site (currently, n = 161). The 'output/adjusted' folder will receive a summary of the data after taxonomic adjustments for each site with at least 4 years of data (currently, n = 85).
+The data import script (Data.Import.Taxonomic.Adjustments.script.YYMMDD.R) loads the data (not included here; available to authorized users through the NutNet dropbox folder), creates a species list for each site based on the raw cover data, applies the taxonomic adjustments function, and creates a species list based on the adjusted cover data for each site with at least 4 years of data.  The species lists can be easily ignored if desired.  If run, they require two destination folders, 'output/raw' and 'output/adjusted', within your working directory.  The 'output/raw' folder will receive a summary of the raw data for each site (currently, n = 162). The 'output/adjusted' folder will receive a summary of the data after taxonomic adjustments for each site with at least 4 years of data (currently, n = 86).
 
 The workflow of the taxonomic adjustments function (Taxonomic.Adjustments.function.YYMMDD.R) is as follows:
 - Print to screen the number of number of records present in datafile.
